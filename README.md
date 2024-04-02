@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Weather app
+
+![image](https://github.com/qobulovasror/weather-web-app/assets/71517683/7bca36ee-7045-4f8c-b00f-dc079b507103)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
